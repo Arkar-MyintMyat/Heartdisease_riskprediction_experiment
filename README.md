@@ -22,7 +22,7 @@ makes** — a global view (SHAP beeswarm, coefficients) alongside a local, per-p
 The notebook downloads the data directly from the UCI URL, so **no data file needs to be committed
 or downloaded manually**.
 
-### Features
+### Features in the dataset 
 
 | Feature | Meaning |
 |---|---|
